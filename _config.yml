@@ -1,7 +1,5 @@
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: "Your awesome title"
+author: "Stefan Güttel"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -53,4 +51,15 @@ minima:
 
 # Set to `true` to show excerpts on the homepage.
 #
-# show_excerpts: false
+show_excerpts: true
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
