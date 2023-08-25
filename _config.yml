@@ -22,8 +22,7 @@ minima:
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
   date_format: "%b %-d, %Y"
-  
-minima:
+
   social_links:
     - { platform: github,         user_url: "https://github.com/guettel" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=zey3HmMAAAAJ&hl=en" }
@@ -47,7 +46,7 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
       tags: Other
 
