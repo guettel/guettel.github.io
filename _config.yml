@@ -4,7 +4,7 @@ author: "Stefan Güttel"
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Posting about maths, data science, music, travel, and whatever else comes to mind.
+  Posts about maths, data science, music, travel, and whatever else comes to mind.
   
 # Build settings
 
