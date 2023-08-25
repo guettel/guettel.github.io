@@ -52,7 +52,7 @@ minima:
 
 # Set to `true` to show excerpts on the homepage.
 #
-show_excerpts: true
+show_excerpts: false
 
 titles_from_headings:
   strip_title: true
