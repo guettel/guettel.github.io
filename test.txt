@@ -1,5 +1,6 @@
 these lines
-were entered
+were entered and edited
+and inserted
 
 on Github directly.
 
